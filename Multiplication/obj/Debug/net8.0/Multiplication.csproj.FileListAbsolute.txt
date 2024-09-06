@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Multiplication\bin\Debug\net8.0\Multiplication.exe
+D:\Programmering\Programmering\Multiplication\bin\Debug\net8.0\Multiplication.deps.json
+D:\Programmering\Programmering\Multiplication\bin\Debug\net8.0\Multiplication.runtimeconfig.json
+D:\Programmering\Programmering\Multiplication\bin\Debug\net8.0\Multiplication.dll
+D:\Programmering\Programmering\Multiplication\bin\Debug\net8.0\Multiplication.pdb
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\Multiplication.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\Multiplication.AssemblyInfo.cs
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\Multiplication.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\Multiplication.dll
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\refint\Multiplication.dll
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\Multiplication.pdb
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\Multiplication.genruntimeconfig.cache
+D:\Programmering\Programmering\Multiplication\obj\Debug\net8.0\ref\Multiplication.dll
